@@ -1,3 +1,6 @@
 test
 Creating a new branch is quick AND simple1.
 newthing1
+
+edit here
+bug
